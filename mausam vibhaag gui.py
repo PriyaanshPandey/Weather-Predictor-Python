@@ -412,22 +412,8 @@ label91.pack(side='left',anchor='w')
 downbutton=Button(frame11,text='💾',font=('segoe UI',12,'bold'),bg='red',fg='white',command=download)
 downbutton.pack(side='left',anchor='w')
 
-def magic():
-    global entry
-    city=entry.get()
-    data=weatherinfo(city)
-    temp=eval(data['temperature'])
-    rain=eval(data['precipitation'])
-    if temp <=10:
-        a.config(bg='#E0E0E0')
-    elif temp >=40:
-        a.config(bg='#FF4500')
-    elif temp >=30:
-        a.config(bg='#FFCC80') 
-    elif rain >=60:
-        a.config(bg='#4682B4') 
-    
-magic()    
+
+   
     
 
 a.mainloop()
