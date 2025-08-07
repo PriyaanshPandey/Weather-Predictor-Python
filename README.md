@@ -8,5 +8,5 @@ Well as its one of my first good projects so stays close to my heart.
 1. User can input the **'city name'** in **search box** and get **weather info** like *temperature*, *chances of rain* , *wind speed* etc with
 with *countryname* and  with *Date* and *Time*  
 2. User can **toggle** the **night mode** and **day mode** too with **dynamic buttons**
-3-support and about us options are there too
-4-main dark horse is the 'Download Weather Report' Option that lets you choose where to save and save a summarised report to your PC 
+3. Options Like **support** and **about us** options are Available. 
+4. main **dark horse** is the **'Download Weather Report'** Option that lets you choose **where to save** and **save a summarised report** to your PC 
