@@ -1,5 +1,5 @@
 # Weather-Predictor-Python
-##ABOUT PROJECT
+## ABOUT PROJECT
 Its a weather predicting **GUI** made using tkinter module of python.  
 We are using the free weather **API** of **'wttr.in'** and convert the  
 **JSON** to a python **Dictionary** and use **Tkinter** module to create a powerful GUI  
