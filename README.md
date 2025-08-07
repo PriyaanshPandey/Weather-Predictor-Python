@@ -2,7 +2,7 @@
 ## ABOUT PROJECT
 Its a weather predicting **GUI** made using tkinter module of python.We are using the free weather **API** of **'wttr.in'**  
 and convert the **JSON** to a python **Dictionary** and use **Tkinter** module to create a powerful GUI . Well as its one  
-Well as its one of my first good projects so stays close to my heart. 
+ of my first good projects so stays close to my heart. 
 
 ## KEY FEATURES
 1. User can input the **'city name'** in **search box** and get **weather info** like *temperature*, *chances of rain* , *wind speed* etc with
